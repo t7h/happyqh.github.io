@@ -1,0 +1,207 @@
+@charset "utf-8";
+/* CSS Document */
+#hed{
+	position: absolute;
+	width: 1200px;
+	text-align: center;
+	height: 80px;
+	margin-top: 160px;
+	}
+.toubu{
+	position: absolute;
+	color: #333;
+	margin-top: 10px;
+	margin-left: 0px;
+	float: left;
+}
+	.dier{
+	position: absolute;
+	height: 40px;
+	width: 1100px;
+	border-radius: 25px;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-size: 36px;
+	padding-left: 15px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	float: left;
+	color: #F96;
+}
+		a{
+			text-decoration:none;
+			}
+		#diyi{
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 80px;
+	height: 300px;
+	width: 1200px;
+	background-image: url(../images/16.gif);
+	background-repeat: repeat;
+		}
+#banquan {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #666666;
+	text-align: center;
+	width: 1200px;
+	margin-top: 1320px;
+	position: absolute;
+	font-weight: bold;
+	padding-left: 50px;
+}
+body {
+	background-image: url(../images/14.png);
+	background-repeat: repeat;
+}
+.dbb {
+	margin-top: 136px;
+}
+#footer {
+	float: left;
+	width: 1200px;
+	margin-left: 100px;
+	margin-top: 1310px;
+	position: absolute;
+}
+p {
+	font-weight: 400;
+}
+		.pmd{
+			position:absolute;
+			margin-top:370px;}
+		#zw{
+	position: absolute;
+	width: 745px;
+	margin-left: 100px;
+	margin-top: 375px;
+	padding-top: 5px;
+}
+			.biaoti{
+	font-weight: 600;
+	font-size: 24px;
+}
+			 .essay{
+	position: absolute;
+	height: 200px;
+	width: 745px;
+	border-collapse: collapse;
+	margin-top: 10px;
+	font-family: "Comic Sans MS", cursive;
+	color: #FFF;
+	background-color: #7a2525;
+				 }
+   .pome {
+	position: absolute;
+	height: 300px;
+	width: 330px;
+	margin-top: 110px;
+	color: #3C8AC4;
+      }
+			
+			
+			
+     .essay1{
+	position: absolute;
+	height: 200px;
+	width: 745px;
+	border-collapse: collapse;
+	margin-top: 220px;
+	font-family: "Comic Sans MS", cursive;
+	font-size: 18px;
+	color: #FFF;
+	background-color: #7a2525;
+				 }
+#jieshao {
+	margin-top: -50px;
+	position: absolute;
+}
+		      .essay2{
+	position: absolute;
+	height: 220px;
+	width: 745px;
+	border-collapse: collapse;
+	margin-top: 430px;
+	font-family: "Comic Sans MS", cursive;
+	color: #FFF;
+	background-color: #7a2525;
+				 }
+				  .essay3{
+	position: absolute;
+	height: 220px;
+	width: 745px;
+	border-collapse: collapse;
+	margin-top: 660px;
+	font-family: "Comic Sans MS", cursive;
+	color: #FFF;
+	background-color: #7a2525;
+				 }
+				 #yb{
+					 position:absolute;
+					 width:330px;
+					 margin-left:930px;
+					 margin-top:385px;
+					 display:block;
+					 }
+.navigation {
+	text-align: center;
+	margin-top: 230px;
+}
+.navigation h2 a:hover {
+	color: #39F;
+}
+			
+			
+h2 {
+	color: #FFF;
+	background-color: #4F282D;
+	float: left;
+	height: 40px;
+	width: 100px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-weight: 400;
+	text-align: center;
+	padding-top: 10px;
+	margin-bottom: 0px;
+  }
+  .navigation a {
+	color:#666;
+                }
+li {
+	list-style-type: none;
+	display: inline;
+	height: 80px;
+	float: left;
+	width: 75px;
+	text-align: center;
+}
+ul {
+	display: inline;
+	padding-left: 0px;
+}
+li a:hover {
+	color: #96F;
+	text-decoration: underline;
+}
+	#zw a{
+		color:#3CC;
+		font-size:24px;
+	    }
+   #zw a:hover
+   {
+	   color:#0C6;
+   }
+ .navigation h2:hover
+       {
+	background-color: #FCF;
+	height: 40px;
+	width: 100px;
+	color: #9CF;
+		}
+		#follow{
+	position: absolute;
+	float: left;
+	width: 300px;
+	padding-left: 0px;
+}
